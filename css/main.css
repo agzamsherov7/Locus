@@ -271,36 +271,32 @@ body{
 .projects-item{
     width: 453px;
 }
-
-.brand{
+.testimonial{
     margin-bottom: 240px;
 }
-.brand-h2{
-    text-align: center;
-    font-weight: 800;
-    font-size: 70px;
-    line-height: 105px;
-}
-.brand-title{
+.testimonial-title{
     text-align: center;
     color: #1C2323;
     font-weight: 800;
     font-size: 70px;
     line-height: 105px;
 }
-.brand-list{
+.testimonial-list{
     margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 }
-.brand-maindiv-wrapper{
+.testimonial-item{
+    margin-right: 90px;
+}
+.testimonial-maindiv-wrapper{
     display: flex;
     margin-top: 62px;
 }
-.brand-maintexts-wrapper{
+.testimonial-maintexts-wrapper{
     background-color: #CCF0E6;
     padding-top: 50px;
     padding-left: 135px;
@@ -308,7 +304,7 @@ body{
     padding-bottom: 119px;
     width: 1000px;
 }
-.brand-times-wrapper{
+.testimonial-times-wrapper{
     display: flex;
     margin-bottom: 123px;
     color: #58A9A5;
@@ -316,31 +312,32 @@ body{
     font-size: 30px;
     line-height: 105px;
 }
-.brand-times{
+.testimonial-times{
     margin: 0;
-    font-weight:600;
+    font-weight:600px;
     font-size:30px;
     Line-height:45px;
     margin-right: 117px;
 }
-.brand-quote{
+.testimonial-quote{
     color: #486958;
     font-weight: 500;
     font-size: 25px;
     line-height: 38px;
     margin: 0;
 }
-.brand-numbers{
+.testimonial-numbers{
     font-weight: 800;
     font-size: 70px;
     line-height: 105px;
     margin: 0;
 }
-.brand-quote-span{
+.testimonial-quote-span{
     color: #58A9A5;
     display: block;
     margin-top: 50px;
 }
+
 
 .contact{
     margin-bottom: 334px;
