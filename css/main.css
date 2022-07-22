@@ -69,6 +69,18 @@ body{
     padding-top: 95px;
     align-items: center;
 }
+.header-list{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.header-list:last-child{
+    margin-right: 0;
+}
+.header-item{
+    margin-right: 86px;
+}
 .header-href-list{
     margin-right: 86px;
     color: #404242;
